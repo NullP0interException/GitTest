@@ -4,3 +4,4 @@ line 3
 line 4
 user 1 hello
 hello user 2
+line 7
